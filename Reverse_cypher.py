@@ -1,4 +1,6 @@
- #Reverse cypher
+#!/usr/bing/env python
+
+# Reverse cypher basic script
 
 message = 'Three can keep a secret if two are dead.'
 translated = ''
